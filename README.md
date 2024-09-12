@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kenneth Agbata!
 
-### 🚀 Banker Turned Data Scientist | AI & ML Enthusiast | NLP, LLM & MLOps Explorer
+### 🚀 Financial adviser cum sales professional Turned Data Scientist | AI & ML Enthusiast | NLP, LLM & MLOps Explorer
 
 ---
 
