@@ -1,21 +1,23 @@
-# 👋 Hello, I'm Kenneth Agbata!
+# 👋 Hello, I'm Agbata Kenneth!
 
-### 🚀 Financial Adviser cum Sales Professional Turned Data Scientist | AI & ML Enthusiast | NLP, LLM & MLOps Explorer
+### 🚀 Banker Turned Data Scientist | Python Proficient | AWS Certified | AI, ML & MLOps Enthusiast | NLP & LLM Explorer
 
 ---
 
 ![Data Science](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 
-Welcome to my GitHub! I'm a **Banker turned Data Scientist** with a passion for data, **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **MLOps**. I specialize in deploying ML models to production environments, ensuring scalability and reliability. With a deep interest in **Natural Language Processing (NLP)** and **Large Language Models (LLM)**, I aim to bring complex AI solutions to life.
+Welcome to my GitHub! I'm a **Banker turned Data Scientist** with a strong foundation in **Python** and a certified **AWS Solution Architect Associate**. I specialize in deploying machine learning models, building scalable solutions, and leveraging **AWS** for cloud-based workflows. My focus spans across **Machine Learning (ML)**, **Artificial Intelligence (AI)**, **MLOps**, and **NLP**.
 
 ---
 
 ## 🔥 Quick Overview
 
 - 💼 Former **Banker** turned **Data Scientist** and **MLOps** professional.
+- 🐍 **Proficient in Python**: Expert in data pipelines, machine learning models, and automation scripts.
+- 🎓 **AWS Certified Solution Architect Associate**: Specialized in designing and deploying cloud infrastructure.
 - 🚀 Specializing in **ML model deployment** and **MLOps** practices.
 - 📊 Expert in **Data Visualization** using **Tableau**, **Power BI**, and **Excel**.
-- 🛠 Proficient with **AWS**, **Docker**, **Kubernetes**, **Python**, **SQL**, and **Linux**.
+- 🛠 Skilled in **AWS**, **Docker**, **Kubernetes**, **SQL**, and **Linux**.
 - 🔍 Continuously learning **NLP** techniques and **LLM** advancements.
 
 ---
@@ -38,9 +40,11 @@ Welcome to my GitHub! I'm a **Banker turned Data Scientist** with a passion for 
 
 ## 🎯 Current Focus
 
+- 🐍 **Building with Python**: Using Python for data analysis, automation, and machine learning applications.
 - 🚀 **Improving NLP Skills**: Working on transformer-based models like **BERT** and **GPT**.
 - 🧠 **Experimenting with LLMs**: Fine-tuning language models for specific tasks.
 - 🔧 **MLOps**: Automating end-to-end machine learning workflows, CI/CD pipelines, and model deployment with **AWS**, **Docker**, and **Kubernetes**.
+- 🌩 **AWS Architecture**: Designing and deploying scalable and secure cloud infrastructure using **AWS**.
 - 📚 **Continual Learning**: Staying updated with the latest **AI**, **ML**, and **MLOps** trends.
 
 ---
@@ -48,8 +52,8 @@ Welcome to my GitHub! I'm a **Banker turned Data Scientist** with a passion for 
 ## 💼 Projects
 
 ### 1. **MLOps Pipeline for Real-Time Prediction**
-Developed a real-time prediction system for customer behavior using **MLOps** principles.
-- 🛠 **Technologies**: AWS, Docker, Kubernetes, Jenkins, Python
+Developed a real-time prediction system for customer behavior using **Python**, **AWS**, and **MLOps** principles.
+- 🛠 **Technologies**: Python, AWS, Docker, Kubernetes, Jenkins
 - 🛠 **Workflow**: Automated CI/CD for training, testing, and deployment of ML models.
 
 ### 2. **NLP Text Classification using BERT**
@@ -62,7 +66,7 @@ Developed a credit risk model to predict loan defaults using historical banking 
 - 🛠 **Technologies**: Python, Scikit-learn, XGBoost, SQL
 - 📊 **Visualized** key insights with Power BI and Tableau.
 
-Check out these projects in the [**repositories**](https://github.com/your-username?tab=repositories) section for code and detailed documentation!
+Check out these projects in the [**repositories**](https://github.com/agbatakenneth?tab=repositories) section for code and detailed documentation!
 
 ---
 
@@ -79,7 +83,7 @@ Check out these projects in the [**repositories**](https://github.com/your-usern
 ## 💬 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kenneth-agbata-822bbb218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com">
@@ -92,5 +96,3 @@ Check out these projects in the [**repositories**](https://github.com/your-usern
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
