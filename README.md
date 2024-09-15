@@ -83,7 +83,7 @@ Check out these projects in the [**repositories**](https://github.com/agbatakenn
 ## 💬 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kennethagbata?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <a href="https://linkedin.com/in/kennethagbata?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com">
